@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 百度三下，那就更知道
 
 You can use the [editor on GitHub](https://github.com/QQmanage/000/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
